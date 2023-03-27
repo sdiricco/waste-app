@@ -1,9 +1,6 @@
 <template>
   <ion-app>
-    <ion-menu content-id="main-content">
-      <sider-bar></sider-bar>
-    </ion-menu>
-    <ion-page id="main-content">
+    <ion-page >
       <ion-router-outlet />
     </ion-page>
   </ion-app>

@@ -1,10 +1,9 @@
 /* eslint-disable */
 
 <template>
-  <ion-page>
-
+  <ion-page>  
     <ion-content :fullscreen="true">
-      ciao
+      about
     </ion-content>
   </ion-page>
 </template>
